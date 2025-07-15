@@ -1,3 +1,1 @@
-python-3.12.12
-gunicorn
-flask==3.0.2
+python-3.10.10

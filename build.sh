@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # पायथन वर्जन सुनिश्चित करें
-pyenv install 3.12.12 -s
-pyenv local 3.12.12
+pyenv install 3.10.10 -s
+pyenv local 3.10.10
 
 # वर्चुअल एनवायरनमेंट बनाएं
 python -m venv .venv
