@@ -36,3 +36,11 @@ pip>=24.0
 importlib-metadata>=8.7.0
 lxml>=6.0.0
 packaging==25.0
+setuptools==68.0.0
+wheel==0.40.0
+
+# पुराने पैकेजेज अपडेट करें
+numpy>=1.26.0
+scipy>=1.11.0
+opencv-python>=4.8.0
+tensorflow>=2.15.0 
