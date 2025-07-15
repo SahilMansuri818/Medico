@@ -35,7 +35,6 @@ pip>=24.0
 importlib-metadata>=8.7.0
 lxml>=6.0.0
 packaging==25.0
-setuptools==68.0.0
 wheel==0.43.0
 
 # पुराने पैकेजेज अपडेट करें
