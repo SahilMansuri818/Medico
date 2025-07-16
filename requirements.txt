@@ -1,7 +1,7 @@
-echo "absl-py==2.3.1
+absl-py==2.3.1
 blinker==1.9.0
 click==8.2.1
 colorama==0.4.6
 flask==3.1.1
 h5py==3.14.0
-imutils==0.5.4" > requirements.txt
+imutils==0.5.4
